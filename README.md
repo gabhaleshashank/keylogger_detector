@@ -43,7 +43,7 @@ pip install pynput psutil
 git clone https://github.com/YOUR_USERNAME/keylogger_detector.git
 cd Keylogger
 ```
-###3️⃣ Run the GUI Control Panel
+### 3️⃣ Run the GUI Control Panel
 ```bash
 python main.py
 ```
