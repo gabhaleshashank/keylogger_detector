@@ -19,7 +19,14 @@ This project is a **Keylogger Detection & Prevention System** that provides:
 ---
 
 ## 🏗️ Project Structure
-📂 Keylogger-Detection/ ├── 📜 main.py # GUI Control Panel for Keylogger & Detector ├── 📜 keylogger_gui.py # Live keystroke capture GUI ├── 📜 keylogger_detector.py # Detects & removes keyloggers ├── 📜 keylogger_detector_gui.py # GUI for keylogger detection ├── 📜 .gitignore # Ignore unnecessary files ├── 📜 README.md # Project Documentation ├── 📜 logs.txt # Keystroke logs (if generated)
+📂 Keylogger/
+├── 📜 main.py # GUI Control Panel for Keylogger & Detector
+├── 📜 keylogger_gui.py # Live keystroke capture GUI
+├── 📜 keylogger_detector.py # Detects & removes keyloggers
+├── 📜 keylogger_detector_gui.py # GUI for keylogger detection
+├── 📜 .gitignore # Ignore unnecessary files
+├── 📜 README.md # Project Documentation
+├── 📜 logs.txt # Keystroke logs (if generated)
 
 
 ---
@@ -32,7 +39,7 @@ Ensure Python is installed, then run:
 pip install pynput psutil
 
 ### 2️⃣ Clone the Repository
-git clone https://github.com/YOUR_USERNAME/keylogger.git
+git clone https://github.com/YOUR_USERNAME/keylogger_detector.git
 cd Keylogger
 
 ###3️⃣ Run the GUI Control Panel
