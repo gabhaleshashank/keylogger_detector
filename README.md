@@ -1,6 +1,6 @@
 # 🛡️ Keylogger Detection & Prevention System
 
-## 🔍 Overview
+## Overview
 This project is a **Keylogger Detection & Prevention System** that provides:
 - **Keylogger Implementation** – Captures live keystrokes in a GUI.
 - **Keylogger Detection** – Scans for suspicious files & processes.
@@ -9,7 +9,7 @@ This project is a **Keylogger Detection & Prevention System** that provides:
 
 ---
 
-## ⚡ Features
+## Features
 ✅ **Keylogger (Attack Simulation)** – Records keystrokes and logs them.  
 ✅ **Live Keystroke Viewer** – Displays real-time keystrokes in a GUI.  
 ✅ **Keylogger Detection** – Scans and terminates unauthorized keyloggers.  
@@ -18,7 +18,7 @@ This project is a **Keylogger Detection & Prevention System** that provides:
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 📂 Keylogger/
 ├── 📜 main.py # GUI Control Panel for Keylogger & Detector
 ├── 📜 keylogger_gui.py # Live keystroke capture GUI
@@ -31,7 +31,7 @@ This project is a **Keylogger Detection & Prevention System** that provides:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1️⃣ Install Dependencies
 Ensure Python is installed, then run:
