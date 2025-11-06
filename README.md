@@ -19,15 +19,16 @@ This project is a **Keylogger Detection & Prevention System** that provides:
 ---
 
 ## Project Structure
+<pre>
 📂 Keylogger/
-├── 📜 main.py # GUI Control Panel for Keylogger & Detector
-├── 📜 keylogger_gui.py # Live keystroke capture GUI
-├── 📜 keylogger_detector.py # Detects & removes keyloggers
-├── 📜 keylogger_detector_gui.py # GUI for keylogger detection
-├── 📜 .gitignore # Ignore unnecessary files
-├── 📜 README.md # Project Documentation
-├── 📜 logs.txt # Keystroke logs (if generated)
-
+├── 📜 main.py                  # GUI Control Panel for Keylogger & Detector
+├── 📜 keylogger_gui.py         # Live keystroke capture GUI
+├── 📜 keylogger_detector.py    # Detects & removes keyloggers
+├── 📜 keylogger_detector_gui.py# GUI for keylogger detection
+├── 📜 .gitignore               # Ignore unnecessary files
+├── 📜 README.md                # Project Documentation
+└── 📜 logs.txt                 # Keystroke logs (if generated)
+</pre>
 
 ---
 
