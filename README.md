@@ -37,12 +37,15 @@ This project is a **Keylogger Detection & Prevention System** that provides:
 Ensure Python is installed, then run:
 ```bash
 pip install pynput psutil
-
+```
 ### 2️⃣ Clone the Repository
+```bash
 git clone https://github.com/YOUR_USERNAME/keylogger_detector.git
 cd Keylogger
-
+```
 ###3️⃣ Run the GUI Control Panel
+```bash
 python main.py
+```
 Select Keylogger or Detector from the GUI.
 Stop Running Programs anytime.
